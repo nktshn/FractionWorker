@@ -1,0 +1,9 @@
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibraryTest\bin\Debug\FractionWorkerLibraryTest.dll
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibraryTest\bin\Debug\FractionWorkerLibraryTest.pdb
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibraryTest\bin\Debug\FractionWorkerLibrary.exe
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibraryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibraryTest\bin\Debug\FractionWorkerLibrary.pdb
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibraryTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibraryTest\obj\Debug\FractionWorkerLibraryTest.csprojResolveAssemblyReference.cache
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibraryTest\obj\Debug\FractionWorkerLibraryTest.dll
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibraryTest\obj\Debug\FractionWorkerLibraryTest.pdb

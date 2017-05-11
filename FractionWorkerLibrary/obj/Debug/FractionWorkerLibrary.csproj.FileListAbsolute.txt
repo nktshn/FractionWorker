@@ -1,0 +1,7 @@
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibrary\bin\Debug\FractionWorkerLibrary.exe.config
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibrary\bin\Debug\FractionWorkerLibrary.exe
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibrary\bin\Debug\FractionWorkerLibrary.pdb
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibrary\obj\Debug\FractionWorkerLibrary.exe
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibrary\obj\Debug\FractionWorkerLibrary.pdb
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibrary\bin\Debug\FractionWorkerLibrary.exe.CodeAnalysisLog.xml
+e:\yandexdisk\docs\visual studio 2015\Projects\FractionWorkerLibrary\FractionWorkerLibrary\bin\Debug\FractionWorkerLibrary.exe.lastcodeanalysissucceeded
